@@ -7,6 +7,6 @@ This repository contains various C programming practice problems with problem st
 
 | Problem | Description |
 |---------|-------------|
-| [Check Largest and smalest factor of number ](./CheckLargest&SmallestFactor) | accept number from user find factor also find largest and smalest number|
+| [Check Largest and smallest factor of number ](./CheckLargest&SmallestFactor) | accept number from user find factor also find largest and smalest number|
 | [Prime Check](./PrimeCheck) | Check whether a number is prime or not |
 | [Sum Of Factors](./SumOfFactors) | Calculate sum of factors of a number |
